@@ -1,0 +1,85 @@
+#cover img
+{
+    width:100%;
+    height:40%;
+}
+#profilecard
+{
+   
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top:20px;
+    box-shadow: 10px 10px 5px grey;
+    margin-right: 10px;
+}
+#designation
+{
+    margin-left: 12px;
+    color: darkgray;
+    
+}
+#company
+{
+    margin-left: 10px;
+    color: darkblue;
+    font-weight: bold;
+    font-size: 20px;
+}
+ img
+{
+   width: 100%;
+}
+.title
+{
+    font-weight: bold;
+    color:skyblue; 
+}
+#education
+{
+    padding: 20px;
+    margin-top: 10px;
+    border:1px solid rosybrown;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px grey;
+}
+#aboutParagraph
+{
+    padding: 5px;
+    text-align:justify;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+}
+#name
+{
+    font-size: 50px;
+    text-shadow: 2px 2px saddlebrown;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#description
+{
+    width:100%;
+}
+#contactinfo,#contact,#hobbies
+{
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    border:1px solid rosybrown;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px grey;
+}
+#about
+{
+    float:center;
+    padding: 5px;
+    font-weight: bold;
+    color:skyblue;
+    font-size: 18px;
+
+}
+h5{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: mediumturquoise;
+    
+}
